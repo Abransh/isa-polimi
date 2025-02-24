@@ -1,7 +1,7 @@
 // app/page.tsx
 import HeroSection from '@/components/HeroSection';
 import Link from 'next/link';
-import Image from 'next/image';
+//import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -190,7 +190,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-700">
-                "Joining ISA POLIMI was the best decision I made after coming to Milan. They helped me navigate the university system and made me feel at home right away."
+                &quot;Joining ISA POLIMI was the best decision I made after coming to Milan. They helped me navigate the university system and made me feel at home right away.&quot;
               </p>
             </div>
             
@@ -204,7 +204,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-700">
-                "The events organized by ISA POLIMI helped me connect with other Indian students and build a support network. Their academic guidance sessions were incredibly helpful too."
+                &quot;The events organized by ISA POLIMI helped me connect with other Indian students and build a support network. Their academic guidance sessions were incredibly helpful too.&quot;
               </p>
             </div>
           </div>

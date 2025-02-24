@@ -22,7 +22,7 @@ export default function About() {
             <div>
               <h2 className="text-3xl font-bold mb-6">Our Mission</h2>
               <p className="text-gray-700 mb-4">
-                ISA POLIMI's mission is to foster a sense of community among Indian students at Politecnico di Milano by providing support, resources, and a platform for cultural exchange.
+                ISA POLIMI&apos;s mission is to foster a sense of community among Indian students at Politecnico di Milano by providing support, resources, and a platform for cultural exchange.
               </p>
               <p className="text-gray-700 mb-4">
                 We aim to help students navigate academic challenges, cultural adjustment, and professional development while studying in Milan, ensuring they have a fulfilling university experience.
